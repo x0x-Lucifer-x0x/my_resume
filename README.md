@@ -1,3 +1,3 @@
 ## 📄 My Resume
 
-![Resume](./Meet_Vachhani.png)
+[View Resume](https://github.com/your-username/your-repo/blob/main/Meet_Vachhani.pdf)
