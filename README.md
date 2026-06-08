@@ -1,3 +1,3 @@
 ## 📄 My Resume
 
-![Resume](./resume.jpg)
+![Resume Preview](Meet_Vachhani_AI.jpg)
