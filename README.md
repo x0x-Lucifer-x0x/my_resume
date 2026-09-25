@@ -1,3 +1,3 @@
 ## 📄 My Resume
 
-![Resume Preview](Meet_Vachhani_FDE.jpg)
+![Resume Preview](Meet_Vachhani_MASALAI.jpg)
